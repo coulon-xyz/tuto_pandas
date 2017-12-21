@@ -1,7 +1,5 @@
 import urllib.request
 import os
-import sys
-import pandas as pd
 
 ABSOLUTE = os.path.join(os.path.dirname(__file__))
 OUTPUT = os.path.join(ABSOLUTE, "runtime")
